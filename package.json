@@ -1,0 +1,32 @@
+{
+  "name": "shared-modules",
+  "version": "1.0.1",
+  "description": "Project for the subject Advanced Web Applications 😶‍🌫️☁️⚡️",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiqueue/SharedModules.git"
+  },
+  "keywords": [
+    "pnpm",
+    "monorepo",
+    "workspace",
+    "shared-dependencies",
+    "node-modules",
+    "multi-project",
+    "javascript",
+    "typescript",
+    "web-development",
+    "vite",
+    "cra",
+    "frontend",
+    "project-setup",
+    "dependency-management"
+  ],
+  "author": "matiqueue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiqueue/SharedModules/issues"
+  },
+  "homepage": "https://github.com/matiqueue/SharedModules#readme"
+}
