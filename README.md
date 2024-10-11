@@ -1,8 +1,6 @@
-
 # Shared Modules
 
 This repository demonstrates how to set up a `PNPM` workspace for sharing node_modules across multiple web projects in the `web-projects/` directory. It allows efficient dependency management for `Vite`, `Create React App`, and other JavaScript/TypeScript projects, saving disk space and speeding up installs.
-
 
 ## Installation
 
@@ -46,6 +44,7 @@ To start the project, in the project folder type the following command:
 ```bash
   npm run dev
 ```
+
 ## Information
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
