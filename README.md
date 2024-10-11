@@ -45,6 +45,22 @@ To start the project, in the project folder type the following command:
   npm run dev
 ```
 
+## Extras
+
+If the project will require an additional npm package (such as `bootstrap` / `prettier` ...) the installation looks like this:
+
+In your react project (not in the mono-repo) write instead of:
+
+```bash
+  npm install <package-name>
+```
+
+write:
+
+```bash
+  pnpm add <package-name>
+```
+
 ## Information
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
